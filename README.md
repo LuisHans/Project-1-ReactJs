@@ -1,4 +1,4 @@
-# Natours CSS Advance Project
+#  Project 1 ReactJs
 
 This project is an student project, developed from the course:
 
